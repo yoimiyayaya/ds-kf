@@ -1,4 +1,6 @@
 # 饿饿饭饭 · 余额桌宠 V3
+<img width="947" height="1113" alt="Segment_20260929_212949373" src="https://github.com/user-attachments/assets/c7cecbc8-a7eb-4f69-b7d8-5e3cf4be326f" />
+
 
 一只端着碗的小家伙，蹲在桌面角落帮你盯着 **DeepSeek 账户余额**。
 余额就是她的饭钱 —— 钱多她笑，钱少她饿，碗空了就该充值了。
