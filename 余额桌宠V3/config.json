@@ -1,0 +1,13 @@
+{
+  "api_key": "sk-c46491d9be1843df9ab7a292f13c48a8",
+  "base_url": "https://api.deepseek.com",
+  "interval_sec": 60,
+  "low_threshold": 10.0,
+  "size_scale": 0.8,
+  "opacity": 1.0,
+  "always_on_top": true,
+  "pos": [
+    2093,
+    953
+  ]
+}
